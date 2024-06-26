@@ -1,1 +1,2 @@
 # Real-Time-Attendance-Tracker
+This is a Python based project in which you can save real time attendance with the facial recognition system. All the attendance data will get saved in the excel file and and the data of students will be saved in the MySQL database of your system. You first need to train the data once before using the facial recognition system. The system will capture 100 images of one single person for better results! 
